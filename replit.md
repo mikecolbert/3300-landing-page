@@ -5,11 +5,11 @@ A single-page personal landing page for Jordan Mercer, a Business Analytics stud
 
 ## Tech Stack
 - HTML5 (semantic elements)
-- CSS3 (external stylesheet)
-- Bootstrap 5.3 (via CDN)
+- CSS3 (vanilla, external stylesheet — no frameworks)
 - Google Fonts (Inter)
-- Bootstrap Icons (via CDN)
-- No JavaScript frameworks, no backend, no database
+- Inline SVG icons for contact links
+- Minimal vanilla JS for mobile nav toggle only
+- No CSS frameworks, no backend, no database
 
 ## Folder Structure
 ```
